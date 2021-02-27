@@ -2,7 +2,7 @@
 #include <iostream>
 #include "String.h"
 #include "Vector.h"
-#include "TicketSystem.h"
+
 
 bool isOpened = false;
 
