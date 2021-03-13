@@ -10,7 +10,7 @@
 
 Добавете в класа Planet тип на пранетата като enum
 
-![Planet Type](https://github.com/lacho55/OOP-IS-2020-2021-Practicum-Group-2/tree/main/Homework/PlanetTypes.png?raw=true)
+![Planet Type](https://github.com/lacho55/OOP-IS-2020-2021-Practicum-Group-2/blob/main/Homework/PlanetTypes.PNG?raw=true)
 
 ## **Задача 2**
 
