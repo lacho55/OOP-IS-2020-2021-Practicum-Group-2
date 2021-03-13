@@ -1,0 +1,31 @@
+// Example file for stromtroopers
+
+// id
+// rank
+// type
+// planet name
+
+LS-005
+commander
+magma trooper
+Vardos
+
+TK-626
+enlisted
+rocket stormtrooper
+Watassay
+
+MB-223
+enlisted
+demolition trooper
+Watassay
+
+TK-421
+enlisted
+death trooper
+Watassay
+
+TK-5331
+sergeant
+shadow trooper
+Vardos

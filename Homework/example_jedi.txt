@@ -1,0 +1,29 @@
+// Example file for Jedi
+
+// name
+// rank
+// midi-chlorian
+// planet name
+// spicies
+// military rank
+
+Yoda
+grand master
+17700
+Coruscant
+Yoda’s species
+General
+
+Obi-Wan Kenobi
+Master
+13400
+Coruscant
+Human
+Colonel
+
+Anakin Skywallker
+Knight
+14500
+Coruscant
+Human
+Sith Lord
