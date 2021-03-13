@@ -3,8 +3,12 @@
 Създайте клас Jedi, който да има:
 - name(char\*), rank(enum), midi-chlorian(double/float), planet(Planet), spicies(char\*), militaryRank(char\*).
 
+## **Задача 2**
+
 Създайте клас Stormtrooper, който да има:
 - id(char\*), rank(enum), type(char\*), planet(Planet).
+
+## **Задача 3**
 
 Създайте клас Planet, който да има:
 - name(char\*), planetSystem(char\*), republic(char\*) - име на притежаващата я република.

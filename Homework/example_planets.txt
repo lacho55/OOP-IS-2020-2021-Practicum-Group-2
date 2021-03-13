@@ -1,0 +1,26 @@
+// Example file for planets
+
+// planet name
+// planet system
+// republic
+
+
+Rishi 
+Rishi system 
+Republic Navy
+
+Vardos
+Jinata system
+Galactic republic
+
+Watassay
+Five Points system
+Galactic Empire
+
+Zhanox
+Zhanox system
+Ugnaught republic
+
+Coruscant
+Coruscant system
+Republic
